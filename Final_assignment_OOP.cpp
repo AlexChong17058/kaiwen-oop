@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// Hi 
 void mainmenu();
 
 //1.0
